@@ -1,0 +1,108 @@
+$Page DISEnsemble: Season 1
+$TargetName DISEnsemble: Season 1
+images/lesson-rack.png
+*DISEnsemble Season 1: 
+Sounds from IUPUI's 
+Destructive and Inventive Systems Ensemble 
+Spring 2017 semester*
+
+*Welcome to the DISEnsemble!*
+These sounds were painstakingly collected by Indiana University-Purdue University Indianapolis's newest music technology ensemble, the DISEnsemble (Destructive and Inventive Systems Ensemble), which focuses on making beautiful sounds out of ugly, outdated or broken devices.
+ 
+Recordings performed by Chris Turley and Duane Weddle, recorded by Dr. Jason Palamara at IUPUI's Department of Music and Arts Technology using equipment from the C.L.E.A.R. Lab.  
+
+IUPUI: $Link www.engr.iupui.edu/departments/mat/ <http://www.engr.iupui.edu/departments/mat/>
+More Downloads and other stuff:
+$Link www.jasonpalamara.com <http://www.jasonpalamara.com>
+
+$Comment --------------------------------------------------------------------------------
+$Page DISEnsemble: Season 1
+$TargetName DISEnsemble: Season 1
+images/turley.png
+*Info about this sample project*
+
+Admittedly, these sounds are pretty strange, so to show off how this amazing pack can be used in music making, click through the scenes in this sample project.  The directions for playing through the scenes are listed on the scenes themselves.  The actual musical progression of the clips is up to you.
+
+images/sampleproj.png
+
+I have taken the liberty of developing a variety of presets for each of these samples groups.  Also included are a number of clips, with added effects and a small MIDI clip of a few measures of music to get the user composing!
+
+images/presets.png
+(Preset instruments are anything with the file extension .adg...these instruments can be dropped onto MIDI tracks and played as instruments)
+images/clips.png
+(Ableton Live Clips are anything with the file extension .alc...these files can be dropped onto tracks and played as loops)
+
+IUPUI: $Link www.engr.iupui.edu/departments/mat/ <http://www.engr.iupui.edu/departments/mat/>
+More Downloads and other stuff:
+$Link www.jasonpalamara.com <http://www.jasonpalamara.com>
+
+$Comment --------------------------------------------------------------------------------
+$Page DISEnsemble: Season 1
+$TargetName DISEnsemble: Season 1
+images/mic1.png
+(Michael Lamb's Shower Head Concussion Microphone)
+
+*Info about the sound samples in this pack*
+
+The sounds in this pack are grouped by instrument, featuring three of the sound systems we developed in the Spring 2017 semester:
+ 
+1. A Hacked Speak 'N Spell: hacked and developed by Chris Turley. (Chris found a non functioning Speak 'N Spell on Ebay, nursed it back to health and then installed a number of potentiometers to control the speed of the playback, meanwhile discovering a hidden "wordvomit" feature that spits out random words and letters in a torrent of digital madness).
+images/sns1.png
+images/sns2.png
+(Chris Turley's Hacked Speak 'N Spell)
+
+IUPUI: $Link www.engr.iupui.edu/departments/mat/ <http://www.engr.iupui.edu/departments/mat/>
+More Downloads and other stuff:
+$Link www.jasonpalamara.com <http://www.jasonpalamara.com>
+
+$Comment --------------------------------------------------------------------------------
+$Page DISEnsemble: Season 1
+$TargetName DISEnsemble: Season 1
+images/apocalypsenow.png
+
+2. The Apocalypse Piano: hacked and developed by Alex Hauptmann, Duane Weddle, Chris Turley, Michael Lamb and Charles Cheesman. (After a lesson on speaker twitching - making a speaker pop in and out by attaching a 9 volt battery to the leads - Alex discovered that you could get some really interesting timbres by interrupting the current with a piano string, which effectively amplified the sound of the string while also adding a lower octave (proof of the until-now believed non-existent under-tone?...investigations are ongoing) and a heap of twitchy distortion...it sounds like the Apocalypse has come (hence the name).
+
+images/alexchris.png
+images/apocalypselater.png
+images/apocalypsethen.png
+images/apocalypsesoon.png
+images/apocalypsesooner.png
+(Chris Turley and Alex Hauptmann, bringing on the Apocalypse Piano)
+
+IUPUI: $Link www.engr.iupui.edu/departments/mat/ <http://www.engr.iupui.edu/departments/mat/>
+More Downloads and other stuff:
+$Link www.jasonpalamara.com <http://www.jasonpalamara.com>
+
+$Comment --------------------------------------------------------------------------------
+$Page DISEnsemble: Season 1
+$TargetName DISEnsemble: Season 1
+images/SMcheese.png
+(Charles Cheeseman III, demonstrating his skills on the Scan-Melodion)
+
+3. Scan-Melodion: hacked and developed by Charles Cheesman and Alex Hauptmann with development guidance from guest composer Justin Comer.  The Scan-Melodion is a theremin-like device accomplished by attaching AM radios to a document scanner with halogen bulbs...played by the hands, without touching either device.
+ 
+IUPUI: $Link www.engr.iupui.edu/departments/mat/ <http://www.engr.iupui.edu/departments/mat/>
+More Downloads and other stuff:
+$Link www.jasonpalamara.com <http://www.jasonpalamara.com>
+
+$Comment --------------------------------------------------------------------------------
+$Page DISEnsemble: Season 1
+$TargetName DISEnsemble: Season 1
+images/takeyourbeating.png
+(Setting up for Dr. Palamara's hacked cassette and networked laptops piece "thebeating")
+
+*What else?*
+
+DISEnsemble is still going strong, now under the direction of Professor Chris Kincaid.
+
+Have questions about this pack, IUPUI's Department of Music and Arts Technology or something else?  Drop me a line at...
+japalama@iu.edu
+
+Enjoy!
+Dr. Jason Palamara & D.I.S.E.
+Visiting Assistant Professor of Music Technology
+Indiana University-Purdue University Indianapolis (IUPUI)
+
+IUPUI: $Link www.engr.iupui.edu/departments/mat/ <http://www.engr.iupui.edu/departments/mat/>
+More Downloads and other stuff:
+$Link www.jasonpalamara.com <http://www.jasonpalamara.com>
